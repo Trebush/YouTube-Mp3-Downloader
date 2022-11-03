@@ -1,0 +1,3 @@
+*.HTML linguist-detectable=false
+*.Python linguist-detectable=true
+*.Tex linguist-detectable=false
